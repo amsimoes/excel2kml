@@ -8,6 +8,8 @@ Python (v3.5) script to generate a KML file to mark points on googlemaps from an
 
 # Instructions
 Firstly, there has to be a column with the places' names as you provide their range on the script.
+
+
 Then, point the column which have the respective pair of (Latitude,Longitude) coordinates.
 
 
@@ -33,7 +35,6 @@ Voilá!
 
 # TODO
 
-[TODO]: 
 1. Add more colors possibilities. 
 2. Option to have column with points descriptions. 
 3. Point if user have Lat,Long or Long,Lat format.
