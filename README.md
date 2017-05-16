@@ -18,6 +18,8 @@ Finally assign whether there is a colors column for the markers if you intend to
 ![First step](https://i.gyazo.com/00b779e0d4e41fe8c5fe5e158cdf0e57.png)
 
 If everything worked as intended you shall have the kml file fully functional waiting to be imported. 
+
+
 Access "My Maps", and in any map on a empty layer, you'll see the Import button. 
 Just upload the kml file and it will mark every point, with it's color, on the right spot on the map.
 
