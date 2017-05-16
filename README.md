@@ -6,7 +6,7 @@ Python (v3.5) script to generate a KML file to mark points on googlemaps from an
 * `# pip3 install openpyxl`
 * `# pip3 install unidecode`
 
-# Instructions
+# Usage
 Firstly, there has to be a column with the places' names as you provide their range on the script.
 
 
@@ -33,7 +33,7 @@ Voilá!
 
 ![Final](https://i.gyazo.com/d604070a5af369a63f94a4b5a56bfb4c.png)
 
-# TODO
+# ToDo
 
 1. Add more colors possibilities. 
 2. Option to have column with points descriptions. 
