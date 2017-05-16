@@ -5,9 +5,8 @@ Python (v3.5) script to generate a KML file to mark points on googlemaps from an
 If cell is blank on colors column -> default color. Input for default color. Input for layer's name and Map's name.
 
 # Dependencies
-$ pip install openpyxl
-
-$ pip install unidecode
+* `# pip3 install openpyxl`
+* `# pip3 install unidecode`
 
 # Instructions
 Firstly, there has to be a column with the places' names, and you provide their range on the script.
